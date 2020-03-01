@@ -1,1 +1,2 @@
-# app-challenge
+# maitre-d
+Restaurant Bill Calculation
