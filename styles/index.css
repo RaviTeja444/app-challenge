@@ -38,3 +38,10 @@ h1 {
    padding-left:10em;
 
 }
+
+#countOfCourses{
+    margin-left: 2em;
+}
+#avgStudentsPerCourse{
+    margin-left: 1.3em;
+}

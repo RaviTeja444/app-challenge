@@ -1,2 +1,2 @@
-# maitre-d
-Restaurant Bill Calculation
+# Students Estimator
+Number of Students Calculation
