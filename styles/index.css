@@ -41,7 +41,14 @@ h1 {
 
 #countOfCourses{
     margin-left: 2em;
+    border-style: double;
 }
 #avgStudentsPerCourse{
     margin-left: 1.3em;
+    border-style: double;
 }
+#answer{
+    border-style: double;
+}
+
+
